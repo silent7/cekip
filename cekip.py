@@ -1,4 +1,3 @@
-print('Selamat datang di Tools Saya')
 import requests, os
 
 def cekip():
